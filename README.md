@@ -12,6 +12,6 @@ Install:
     - current_user_name: <blank>
 
 Usage:
-  - git run . <command>
+  - gator <command>
   - Basic commands: login, register, users, agg, feeds
   - Login required commands: addfeed, follow, following, unfollow, browse
